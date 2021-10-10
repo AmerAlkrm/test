@@ -1,0 +1,4 @@
+langauge: python
+
+script:
+  - echo $TRAVIS_COMMIT
